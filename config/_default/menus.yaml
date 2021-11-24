@@ -1,0 +1,125 @@
+leftnav:
+- identifier: 9e6792e8-09a4-ac54-0f33-c22c3649cf99
+  name: Syllabus
+  url: /pages/syllabus/
+  weight: 10
+- identifier: bcd6ed96-4b48-fa51-2854-8ff366ad8534
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: c9488efa-21ae-f733-67eb-608ddf9ff7cc
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 30
+- identifier: 1dbc0a30-1c05-cbc3-1693-c0f1c7957e3f
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
+- identifier: 3be6c063-49c0-0578-5a56-bc32a70bcb4b
+  name: Projects
+  url: /pages/projects
+  weight: 50
+- identifier: 09700340-607a-547c-da2b-20b3c55a84bd
+  name: In-Class Activities
+  url: /pages/in-class-activities/
+  weight: 60
+- identifier: 7d457fc6-e5b5-fd97-7b1b-bf4a748d362a
+  name: Usability
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/usability
+  weight: 70
+- identifier: c6e1f503-8ae3-cffc-ac32-14ec9cf6b6d5
+  name: Learnability
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/learnability
+  weight: 80
+- identifier: 90b7b366-51b0-0169-9c59-bb598d7ebdd9
+  name: Visibility
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/visibility
+  weight: 90
+- identifier: 436a6df8-716e-9aca-1593-7503a10e439d
+  name: Efficiency
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/efficiency
+  weight: 100
+- identifier: a7778c17-1c5a-1d0d-6272-9eb74689cdd6
+  name: Errors and User Control
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/errors-and-user-control
+  weight: 110
+- identifier: 5584105a-584a-1d86-db1c-636193e8c98e
+  name: User-centered Design
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/user-centered-design
+  weight: 120
+- identifier: 1c9ae285-87b7-55df-3b1c-2af5c1e1536c
+  name: Task Analysis
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/task-analysis
+  weight: 130
+- identifier: ede52b5a-726e-d9aa-c526-8c39f5abc16a
+  name: Generating Designs
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/generating-designs
+  weight: 140
+- identifier: b101ce27-19e1-b207-31ff-35904236fdbb
+  name: UI Software Architecture
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/ui-software-architecture
+  weight: 150
+- identifier: e33273d8-0343-4f6e-27b9-c5d6431974c6
+  name: Input
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/input
+  weight: 160
+- identifier: f0d1549f-ac45-06b5-21ea-07697cfadde9
+  name: User Testing
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/user-testing
+  weight: 170
+- identifier: 5e588338-ce4d-650c-1e7a-7f84a7985842
+  name: Experiment Analysis
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/experiment-analysis
+  weight: 180
+- identifier: f6538245-0497-94fa-5e4a-9761c83533e0
+  name: Prototyping
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/prototyping
+  weight: 190
+- identifier: a54071c4-5f96-caff-040e-59579bc92c1c
+  name: Graphic Design
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/graphic-design
+  weight: 200
+- identifier: 7623ce1f-044e-42a2-6d98-350f286973be
+  name: Information Visualization
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/information-visualization
+  weight: 210
+- identifier: a8e39d06-ec18-90ae-7f22-3e5cf0165120
+  name: Color Design and Typography
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/color-design-and-typography
+  weight: 220
+- identifier: a5ea8d6f-a7e1-18a7-a751-60cac3169d0c
+  name: Accessibility
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/accessibility
+  weight: 230
+- identifier: 55ad3551-4572-102b-d6bc-ab4bc7849322
+  name: Internationalization
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/internationalization
+  weight: 240
+- identifier: c4c7214c-abb4-3c6b-e3b6-0141ba9b2622
+  name: Heuristic Evaluation
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/heuristic-evaluation
+  weight: 250
+- identifier: ee31b351-36ae-e855-708e-233bdef03182
+  name: Input/Output Technology
+  parent: 09700340-607a-547c-da2b-20b3c55a84bd
+  url: /pages/in-class-activities/input-output-technology
+  weight: 260

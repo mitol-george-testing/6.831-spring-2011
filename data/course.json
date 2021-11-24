@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Graphic Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "15d1367e-048a-c7ec-bca7-663806f9679a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "User Interface Design and Implementation",
+  "course_description": "6.831/6.813 examines human-computer interaction in the context of graphical user interfaces. The course covers human capabilities, design principles, prototyping techniques, evaluation techniques, and the implementation of graphical user interfaces. Deliverables include short programming assignments and a semester-long group project. Students taking the graduate version also have readings from current literature and additional assignments.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.813",
+  "primary_course_number": "6.831",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects"
+  ],
+  "title": "Course Metadata"
+}
